@@ -9,8 +9,8 @@
 - 🔍 Passionate about turning data into actionable insights  
 - 📊 Strong foundation in Data Analysis, Machine Learning & Statistics  
 - 🤖 Building AI-powered real-world applications  
-- ⚡ Combining Data Science with Full-Stack Development  
-- 📈 Actively working on advanced projects like **StockSense (AI Trading Platform)**  
+- ⚡ Exploring Deep Learning, NLP, and LLM-based systems (RAG)  
+- 📈 Currently working on **StockSense – AI Trading Platform**  
 
 ---
 
@@ -20,13 +20,16 @@
 Python • SQL • R • C++ • Java  
 
 ### 📊 Data & Visualization
-Pandas • NumPy • Matplotlib • Seaborn • EDA  
+Pandas • NumPy • Matplotlib • Seaborn • Tableau • EDA  
 
 ### 🤖 Machine Learning & AI
 Scikit-learn • XGBoost • SHAP (Explainable AI) • Feature Engineering  
 
+### 🧠 Deep Learning & NLP
+Neural Networks • NLP • Transformers (Basics) • LLM • RAG (Retrieval-Augmented Generation)  
+
 ### 🌐 Development
-FastAPI • REST APIs  
+FastAPI • React.js • REST APIs  
 
 ### 🗄️ Database
 SQLite  
@@ -38,12 +41,12 @@ SQLite
 ### 🔹 StockSense – AI Trading & Investing Platform
 - Full-stack AI app with real-time NSE data  
 - AI Copilot using LLaMA (Groq API)  
-- Paper trading, stress testing, portfolio analytics  
+- Paper trading, stress testing, and portfolio analytics  
 
 ### 🔹 Credit Card Fraud Detection (XAI)
 - XGBoost model on imbalanced dataset  
 - SMOTE for balancing  
-- SHAP for model explainability  
+- SHAP for explainability  
 
 ### 🔹 Movie Recommender System
 - Content-based filtering using NLP  
@@ -55,30 +58,23 @@ SQLite
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Shariqueperwez&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shariqueperwez&layout=compact&theme=radical)
-
----
-
 ## 🧠 Currently Learning
 - Advanced Machine Learning  
+- Deep Learning & LLM Applications  
 - System Design  
-- Data Engineering Basics  
 
 ---
 
 ## 🎯 Goals
 - Become a Data Scientist / Data Analyst  
 - Build impactful AI-driven products  
-- Contribute to real-world data solutions  
+- Work on real-world AI & data problems  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sharique-perwez/  
+- 📧 Email: shariqueperwez01email@gmail.com  
 
 ---
 
