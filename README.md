@@ -2,7 +2,7 @@
 
 **AI/ML and Data Science | Python • LLMs • Computer Vision**
 
-Computer Science graduate (B.Tech, Lovely Professional University, 2026, CGPA 8.41). I build AI apps from start to finish, from the model to a live demo you can open in your browser. Right now I'm working on StockSense, an AI trading platform.
+Computer Science graduate (B.Tech, Lovely Professional University, 2026). I build AI apps from start to finish, from the model to a live demo you can open in your browser. Right now I'm working on StockSense, an AI trading platform.
 
 I'm looking for entry-level AI/ML Engineer and Data Scientist roles.
 
